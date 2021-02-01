@@ -19,10 +19,11 @@ As fotos podem ser tiradas nos seginter formatos:
 - 4x3,
 - 16x9.
 
-É possivel definir alertar personalizadas de acordo com a situção
-errorMessages={{
-  noCameraAccessible: "..."
-  permissionDenied:"...",
-  switchCamera:"...",
-  canvas: "...",
-  }} que podem ser configurados para exibir alertas
+É possivel definir alertar personalizadas de acordo com a situção: 
+
+- errorMessages
+  - noCameraAccessible: "..."
+  - permissionDenied:"...",
+  - switchCamera:"...",
+  - canvas: "...",
+
