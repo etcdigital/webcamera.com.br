@@ -1,5 +1,9 @@
 # Website para tirar e baixar suas fotos
 
+## Demo
+
+https://etcdigital.github.io/webcamera.com.br/
+
 ## style
 
 para estilizar o website foi utilizado as classes do Tailwind que possui diversos templates gratuitos
@@ -9,9 +13,14 @@ https://tailwindcss.com/
 **para seu desenvolvimento fou utilizado o componente de camera react-camera-pro:**
 https://github.com/purple-technology/react-camera-pro
 
-Os formatos de fotos () são 1x1, 4x3 e 16x9
+As fotos podem ser tiradas nos seginter formatos:
 
-Esse compenente possui errorMessages={{
+- 1x1,
+- 4x3,
+- 16x9.
+
+É possivel definir alertar personalizadas de acordo com a situção
+errorMessages={{
   noCameraAccessible: "..."
   permissionDenied:"...",
   switchCamera:"...",
