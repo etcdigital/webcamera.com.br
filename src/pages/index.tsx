@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Head from "next/head";
 
-import { WebcamCapture } from "./components/webcam";
+import { WebcamCapture } from "../components/webcam";
 
 export default function Home() {
   return (
