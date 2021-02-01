@@ -10,7 +10,4 @@ module.exports = {
       "/": { page: "/" },
     };
   },
-  assetPrefix: isProd
-    ? "https://cdn.statically.io/gh/etcdigital.github.io/webcamera.com.br/gh-pages/"
-    : "",
 };
