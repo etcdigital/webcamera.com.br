@@ -11,6 +11,6 @@ module.exports = {
     };
   },
   assetPrefix: isProd
-    ? "https://cdn.statically.io/gh/etcdigital/etcdigital.github.io/gh-pages/"
+    ? "https://cdn.statically.io/gh/etcdigital.github.io/webcamera.com.br/gh-pages/"
     : "",
 };
