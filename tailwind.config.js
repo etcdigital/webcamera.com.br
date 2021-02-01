@@ -4,9 +4,9 @@ module.exports = {
   purge: ["./pages/**/*.{ts,tsx,js,jsx}"],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    stroke: {
-      current: "currentColor",
-    },
+    // stroke: {
+    //   current: "currentColor",
+    // },
     // stroke: {
     //   current: "currentColor",
     //   principal: "#41c1fb",
